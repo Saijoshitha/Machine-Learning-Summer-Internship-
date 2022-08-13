@@ -1,3 +1,5 @@
+Our team of four members completed this project as their final effort in the wine quality prediction file. 
+
 This Folder consists of
 
 1. Wine Quality(csv file)
