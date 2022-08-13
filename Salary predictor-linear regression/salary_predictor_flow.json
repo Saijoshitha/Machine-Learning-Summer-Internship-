@@ -1,0 +1,1 @@
+[{"id":"fc7379bc.2b4df8","type":"function","z":"590ac0f3.152cd","name":"token generation","func":"global.set(\"YearsExperience\",msg.payload.YearsExperience)\nreturn msg;","outputs":1,"noerr":0,"x":302,"y":326.0000047683716,"wires":[["e518850e.6ce1f8"]]}]
